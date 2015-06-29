@@ -1,0 +1,85 @@
+* {
+background-color: #E0FFFF;
+font-family:'Times New Roman', sans-serif;
+}
+#title {
+font-size: 6.5em;
+color: #00F5FF;
+}
+.center {
+text-align:center;
+}
+#row1 {
+}
+#compliment {
+font-size: 4em;
+text-align:center;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 100px;
+height: 150px;
+width:460px;
+background-color: yellow;
+border: 2px black solid;
+border-radius: 20px;
+}
+#music {
+text-align:center;
+font-size: 4em;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 100px;
+height: 150px;
+width:460px;
+background-color: #E066FF;
+border: 2px black solid;
+border-radius: 20px;
+}
+#clothes {
+text-align:center;
+font-size: 4em;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 100px;
+height: 150px;
+width:460px;
+background-color: blue;
+border: 2px black solid;
+border-radius: 20px;
+}
+#cards {
+text-align:center;
+font-size: 4em;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 100px;
+height: 150px;
+width:460px;
+background-color: orange;
+border: 2px black solid;
+border-radius: 20px;
+}
+#inspiration {
+text-align:center;
+font-size: 4em;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 100px;
+height: 150px;
+width:460px;
+background-color: green;
+border: 2px black solid;
+border-radius: 20px;
+}
+#service {
+text-align:center;
+font-size: 4em;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 200px;
+height: 150px;
+width:460px;
+background-color: red;
+border: 2px black solid;
+border-radius: 20px;
+}
